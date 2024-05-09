@@ -8,5 +8,10 @@
     "codigo": "260",
     "nombre": "Ingenieria Biomedica",
     "coordi": "Sara Aponte"
+  },
+  {
+    "codigo": "270",
+    "nombre": "Ingenieria industrial",
+    "coordi": "Profesor"
   }
 ]
